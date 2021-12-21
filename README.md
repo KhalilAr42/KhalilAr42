@@ -1,4 +1,4 @@
-## - Hi there 👋, I'm Khalil - aka [KhalilAr42](https://khalilar42.github.io/) 
+## - Hi there 👋, I'm Khalil Archkak - aka [KhalilAr42](https://khalilar42.github.io/) 
 
 I’m **22 years old and a student in university mohamed V**, more precisely in the faculty of science.
 
