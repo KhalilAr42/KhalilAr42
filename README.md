@@ -16,7 +16,3 @@ I’m in the **second year of my master degrees (IPS : Inteligent System Process
 
 <br>
 
-## - Connect with me:
-
-[<img align="left" alt="KhalilAr42 | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/khalilarchkak/)
-[<img align="left" alt="KhalilAR42 | Instagram" width="22px" src="https://img.icons8.com/office/50/000000/instagram-new.png">](https://www.instagram.com/arkhalilpt/)
