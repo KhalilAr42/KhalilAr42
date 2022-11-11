@@ -1,8 +1,10 @@
 ## - Hi there 👋, I'm Khalil Archkak - aka [KhalilAr42](https://khalilar42.github.io/) 
 
-I’m **22 years old and a student in university mohamed V**, more precisely in the faculty of science.
+Hey! I'm Khalil a laureate of master Intelligent Processing Systems.
 
-I’m in the **second year of my master degrees (IPS : Inteligent System Processing)** in which I study **data science**.
+I'm currently self-learning Java through books and online courses in order to pursue a career in back-end development.
+
+I also like to write in my personal blog : khalilar.com, I also document my learning process at https://khalilar.com/my-journey/.
 
 ## - Languages and Tools:
 
