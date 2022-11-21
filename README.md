@@ -2,7 +2,7 @@
 
 Hey! I'm Khalil a laureate of master Intelligent Processing Systems.
 
-I'm currently self-learning Java through books and online courses in order to pursue a career in back-end development.
+I'm currently learning Java through books and online courses in order to pursue a career in back-end development.
 
 I also like to write in my personal blog : khalilar.com, I also document my learning process at https://khalilar.com/my-journey/.
 
