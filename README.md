@@ -1,10 +1,14 @@
 ## - Hi there 👋, I'm Khalil Archkak - aka [KhalilAr42](https://khalilar42.github.io/) 
 
-Hey! I'm Khalil a laureate of master Intelligent Processing Systems.
+Hey! I'm Khalil A human being who loves gaming,movies and cats !  
 
-I'm currently learning Java through books and online courses in order to pursue a career in back-end development.
+I'm also a laureate of master Intelligent Processing Systems where I studied Data science.
 
-I also like to write in my personal blog : khalilar.com, I also document my learning process at https://khalilar.com/my-journey/.
+Presently, I hold the position of Test Analyst at Capgemini Morocco, where I contribute to ensuring top-notch software quality.
+
+I'm currently learning web development by following the odin project curicculum.
+
+Feel Free to contact me at : khalilarchkak@gmail.com.
 
 ## - Languages and Tools:
 
