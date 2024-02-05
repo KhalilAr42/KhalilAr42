@@ -12,13 +12,12 @@ Feel Free to contact me at : khalilarchkak@gmail.com.
 
 ## - Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Vmware-Workstation" width="30px" src="https://static.wikia.nocookie.net/logopedia/images/5/5a/Vmware_workstation_16_icon.svg" />](https://www.vmware.com/)
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img align="left" alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />](https://seaborn.pydata.org/)
-[<img align="left" alt="Pandas" width="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />](https://pandas.pydata.org/)
-[<img align="left" alt="Opencv" width="30px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_white.svg" />](https://opencv.org/)
-[<img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />](https://jupyter.org/)
+[<img align="left" alt="Visual Studio Code logo" width="28px" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="intelij idea logo" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />]((https://www.jetbrains.com/idea/))
+[<img align="left" alt="Selenium logo" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />]((https://www.selenium.dev/))
+[<img align="left" alt="HTML5 logo" width="34px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />]((https://developer.mozilla.org/fr/docs/Web/HTML))
+[<img align="left" alt="CSS3 logo" width="34px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />]((https://developer.mozilla.org/fr/docs/Web/CSS))
+[<img align="left" alt="Javascript logo" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />]((https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 
 <br>
 
